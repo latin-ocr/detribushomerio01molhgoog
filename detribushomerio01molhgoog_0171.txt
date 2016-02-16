@@ -1,0 +1,53 @@
+154
+
+exp. = expunxit, expunctum.
+
+gl. = glossa.
+
+yp'. = γράφεται, γραπτέον.
+
+i. m. vel im.=irr margine.
+inszinseruit, insertum.
+
+i. r. vel ir.=in rasura.
+
+i. t. vel it.=in textu.
+iter.=iteravit, iteratum.
+
+i. = legendum.
+
+lac. = lacuna.
+
+im. = lemma.
+
+om.=0misit, omissum.
+
+p. c. vel pc.=post correctionem.
+post. :posterius
+
+ras. = rasura.
+
+sch. = scholium.
+
+scpt.=scripsit, scriptum.
+ss.=superscripsit, superscriptum.
+†:una littera erasa.
+
+τὸν G² prc τὴν Gzripv scripserat G, quod in τὸν correxit G².
+
+τὸ]ν add. G²=ri scripserat G, quod in τὸν correxit G².
+
+τὸν G, ὸ i. r.=ipse G addidit ὸ, erasa littera quam primitus
+scripserat.
+
+ὃ]ς i. r. G²=accidrc G² ς, erasa littera quam scripserat G.
+
+ὃ]ν del. G²=scripserat G ὃν, in ὃ correxit G².
+
+ἔβαλλον G, alterum i ss. G²=G scripserat ἔβαλον, quod in ἔβαλλον
+correctum vuit G².
+
+Qffifflmffimi
+
+ 
+
